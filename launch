@@ -1,0 +1,2 @@
+gcc salle.c -o salle -framework OpenGL -framework GLUT -Wno-deprecated-declarations
+./salle
